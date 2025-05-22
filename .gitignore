@@ -1,4 +1,4 @@
 *.parquet
 *.csv
 *.json
-test.*
+test.py
